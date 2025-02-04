@@ -1,0 +1,9 @@
+.space {
+    margin-top: 20px;
+}
+
+body {
+    background-image: url(/public/imgs/securitylog.png.jpg);
+    background-position: center;
+   background-size: cover;
+}

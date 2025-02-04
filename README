@@ -1,0 +1,7 @@
+(1) Import the new database file in server/database/gestiond_hotel(1).sql, in your database manager (XAMPP, WAMP, etc...). 
+
+(2) If you want to set the database params, ex: db_name, db_host etc..., go to the server/connexion.php file make it.
+
+(3) Open your terminal in projet root in vscode or the external terminal, try: php -S localhost:9000.
+
+(4) Open this url generate to see the index projet vew.
